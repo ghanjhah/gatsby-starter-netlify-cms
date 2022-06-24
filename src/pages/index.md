@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscienc
+title: Batu Persada
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Test123456
+subheading: lorem ipsum dolor si amet
 mainpitch:
   title: Why Kaldi
   description: >
